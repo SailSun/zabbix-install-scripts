@@ -1,1 +1,2 @@
-# zabbix-install-scripts
+Zabbix安装脚本
+提供多版本支持的Zabbix安装脚本，适用不同的安装环境
